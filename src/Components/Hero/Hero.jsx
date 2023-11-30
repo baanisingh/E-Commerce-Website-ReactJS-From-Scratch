@@ -23,7 +23,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className="hero-right">
-                <img src={hero_image} alt="" />
+                <img src={hero_image} alt="" data-aos="flip-left" data-aos-duration="800" data-aos-delay="1000"/>
             </div>
         </div>
   )

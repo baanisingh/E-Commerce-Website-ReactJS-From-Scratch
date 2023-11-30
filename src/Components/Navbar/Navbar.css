@@ -72,3 +72,12 @@
     background:red;
     color: white;
 }
+.login-button{
+    transition: all .5s ease;
+}
+
+.login-button:hover{
+    
+    background-color: #A16F5D;
+    color: white;
+}
